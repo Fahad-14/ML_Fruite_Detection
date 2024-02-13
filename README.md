@@ -1,1 +1,1 @@
-# ML_Fruite_Detection
+# ML_Fruits_Detection
