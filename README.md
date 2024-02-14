@@ -40,7 +40,7 @@ Instructions:
 7. Example:
    
 ```bash
-   $ python Fruit.py and `predict.py`
+   $ python `Fruit.py` and `predict.py`
    Enter the path to the dataset folder: /path/to/your/dataset
    Accuracy: 0.85
    Enter the path to the new image: /path/to/your/new/image.jpg
