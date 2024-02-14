@@ -3,6 +3,8 @@ Enhancing Fruits Detection using SVM
 
 This Python script performs Enhancing Fruits Detection using Support Vector Machines (SVM) on a dataset containing images of fruits. It extracts color histogram features from the images and trains an SVM classifier to classify them into different fruit categories. Additionally, the script allows predicting the label of a new image.
 
+Training Set Link : https://drive.google.com/drive/folders/1hAD7Bba2zND2oMAogyDWHwq1rKJlZarw?usp=sharing
+
 Instructions:
 
 1. Requirements:
