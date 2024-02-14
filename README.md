@@ -1,7 +1,7 @@
 # ML_Fruits_Detection
-Dataset Image Classification using SVM
+Dataset Image Detection using SVM
 
-This Python script performs image classification using Support Vector Machines (SVM) on a dataset containing images of fruits. It extracts color histogram features from the images and trains an SVM classifier to classify them into different fruit categories. Additionally, the script allows predicting the label of a new image.
+This Python script performs image detection using Support Vector Machines (SVM) on a dataset containing images of fruits. It extracts color histogram features from the images and trains an SVM classifier to classify them into different fruit categories. Additionally, the script allows predicting the label of a new image.
 
 Instructions:
 
@@ -26,21 +26,21 @@ Instructions:
 
 Files:
 
-   - image_classification_svm.py: Python script for image classification using SVM.
-   - README.md: Instructions and information about the script.
+   - fruit.py: Python script for image classification using SVM.
+   - predict.py: Python script for predict the output.
 
 Usage:
 
 1. Clone or download the repository to your local machine.
 2. Install the required dependencies mentioned in the requirements section.
 3. Prepare your dataset according to the instructions provided.
-4. Run the `image_classification_svm.py` script.
+4. Run the `fruit.py` script. and then run `predict.py`
 5. Follow the prompts to input the dataset path and path to a new image for prediction.
 
 Example:
 
 ```bash
-$ python image_classification_svm.py
+$ python fruit.py and `predict.py`
 Enter the path to the dataset folder: /path/to/your/dataset
 Accuracy: 0.85
 Enter the path to the new image: /path/to/your/new/image.jpg
