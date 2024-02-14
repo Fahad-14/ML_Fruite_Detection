@@ -26,7 +26,7 @@ Instructions:
    
 5. Files:
    
-   - fruit.py: Python script for image classification using SVM.
+   - Fruit.py: Python script for image classification using SVM.
    - predict.py: Python script for predict the output.
 
 6. Usage:
@@ -34,13 +34,13 @@ Instructions:
    1. Clone or download the repository to your local machine.
    2. Install the required dependencies mentioned in the requirements section.
    3. Prepare your dataset according to the instructions provided.
-   4. Run the `fruit.py` script. and then run `predict.py`
+   4. Run the `Fruit.py` script. and then run `predict.py`
    5. Follow the prompts to input the dataset path and path to a new image for prediction.
    
 7. Example:
    
 ```bash
-   $ python fruit.py and `predict.py`
+   $ python Fruit.py and `predict.py`
    Enter the path to the dataset folder: /path/to/your/dataset
    Accuracy: 0.85
    Enter the path to the new image: /path/to/your/new/image.jpg
@@ -54,5 +54,5 @@ Instructions:
 
 9. Author:
 
-   This script was developed by Fahad Hussain and Mateen Nizami and can be freely used and modified under the MIT License.
+   This script develope by Fahad Hussain and Mateen Nizami. 
 
