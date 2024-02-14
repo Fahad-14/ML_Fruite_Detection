@@ -1,7 +1,7 @@
 # ML_Fruits_Detection
-Enhancing Fruit Detection using SVM
+Enhancing Fruits Detection using SVM
 
-This Python script performs Enhancing Fruit Detection using Support Vector Machines (SVM) on a dataset containing images of fruits. It extracts color histogram features from the images and trains an SVM classifier to classify them into different fruit categories. Additionally, the script allows predicting the label of a new image.
+This Python script performs Enhancing Fruits Detection using Support Vector Machines (SVM) on a dataset containing images of fruits. It extracts color histogram features from the images and trains an SVM classifier to classify them into different fruit categories. Additionally, the script allows predicting the label of a new image.
 
 Instructions:
 
@@ -23,36 +23,36 @@ Instructions:
 4. Predicting New Images:
    - Once the classifier is trained, you can input the path to a new image to predict its fruit category.
    - Ensure that the image format is compatible (e.g., JPEG, PNG).
-
-5.Files:
-
+   
+5. Files:
+   
    - fruit.py: Python script for image classification using SVM.
    - predict.py: Python script for predict the output.
 
-6.Usage:
-
+6. Usage:
+   
    1. Clone or download the repository to your local machine.
    2. Install the required dependencies mentioned in the requirements section.
    3. Prepare your dataset according to the instructions provided.
    4. Run the `fruit.py` script. and then run `predict.py`
    5. Follow the prompts to input the dataset path and path to a new image for prediction.
-
-7.Example:
-
+   
+7. Example:
+   
 ```bash
-$ python fruit.py and `predict.py`
-Enter the path to the dataset folder: /path/to/your/dataset
-Accuracy: 0.85
-Enter the path to the new image: /path/to/your/new/image.jpg
-Predicted fruit: Apple
+   $ python fruit.py and `predict.py`
+   Enter the path to the dataset folder: /path/to/your/dataset
+   Accuracy: 0.85
+   Enter the path to the new image: /path/to/your/new/image.jpg
+   Predicted fruit: Apple
 ```
-
-8.Note:
+   
+8. Note:
 
    - You can modify the `extract_features` function to use different feature extraction techniques for better classification accuracy.
    - Experiment with different SVM kernels and parameters for optimization based on your dataset characteristics.
 
-9.Author:
+9. Author:
 
    This script was developed by Fahad Hussain and Mateen Nizami and can be freely used and modified under the MIT License.
 
