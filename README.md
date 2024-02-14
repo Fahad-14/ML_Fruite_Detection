@@ -54,5 +54,5 @@ Instructions:
 
 9. Author:
 
-   This script develope by Fahad Hussain and Mateen Nizami. 
+   This script develop by Fahad Hussain and Abdul Matin Nezami. 
 
